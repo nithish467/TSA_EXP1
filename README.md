@@ -2,11 +2,11 @@
 ###  Date: 01/11/2026
 
 # AIM:
-To develop a Python program to plot the time series data using the AirPassengers dataset and visualize the changes in the number of air passengers over time.
-### Dataset Name : AirPassengers
+To develop a Python program to plot the time series data using the tesla_vehicle_sales_performance dataset and visualize the changes in the number of tesla_vehicle_sales_performance over time.
+### Dataset Name : tesla_vehicle_sales_performance
 # ALGORITHM:
 1. Import the required packages such as Pandas and Matplotlib.
-2. Read the AirPassengers dataset using Pandas.
+2. Read the tesla_vehicle_sales_performancedataset using Pandas.
 3. Convert the Month column into datetime format.
 4. Select the Month and Passengers columns from the dataset.
 5. Plot the time series data using a line graph.
@@ -42,4 +42,4 @@ plt.show()
 
 
 # RESULT:
-Thus, we have successfully created and executed a Python program to plot the time series data using the AirPassengers dataset. The graph clearly represents the changes in the number of air passengers from 1949 to 1960.
+Thus, we have successfully created and executed a Python program to plot the time series data using the tesla_vehicle_sales_performance dataset. The graph clearly represents the changes in the number of tesla_vehicle_sales_performance.
